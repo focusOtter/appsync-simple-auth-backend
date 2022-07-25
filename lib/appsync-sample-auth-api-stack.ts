@@ -163,6 +163,6 @@ export class AppsyncSampleAuthApiStack extends Stack {
 			value: api.apiId,
 		})
 
-		// npx aws-cdk deploy --outputs-file ./cdk-outputs.json
+		// npx aws-cdk deploy --outputs-file ./cdk-outputs.json to save outputs
 	}
 }
