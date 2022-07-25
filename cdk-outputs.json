@@ -1,0 +1,9 @@
+{
+  "AppsyncSampleAuthApiStack": {
+    "UserPoolClientId": "6vstsucijcel15ev271ll4g45t",
+    "GraphQLAPIID": "mhx2ixnrirdrzlaewplox64cii",
+    "UserPoolId": "us-east-1_EXyCwfcpI",
+    "GraphQLAPIURL": "https://r4gxoi77u5clldlalhh5gcdfve.appsync-api.us-east-1.amazonaws.com/graphql",
+    "GraphQLAPIKey": "da2-dwbu7dxetfdwlc2wd3mnrc5ivy"
+  }
+}
